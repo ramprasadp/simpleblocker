@@ -1,2 +1,2 @@
 ^.+\.googlesyndication\.com/
- ^.+googleads.g.doubleclick.net
+^.+googleads.g.doubleclick.net
